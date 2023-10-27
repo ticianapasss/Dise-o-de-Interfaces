@@ -1,10 +1,7 @@
-header {
-    background-color: rgb(14, 216, 219);
-
+body {
+    background-color: rgb(135, 228, 135)
 }
 
-
-
-p { 
+p{
     color: black;
 }
