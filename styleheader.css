@@ -1,12 +1,7 @@
-body{
-    background-color: rgb(107, 219, 107);
+body {
+    background-color: rgb(135, 228, 135)
 }
 
-p {
-    color: blueviolet;
-}
-
-
-p { 
+p{
     color: black;
 }
