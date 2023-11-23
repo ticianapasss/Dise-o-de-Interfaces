@@ -1,18 +1,7 @@
-header {
-    background-color: blanchedalmond;
-
+body {
+    background-color: rgb(135, 228, 135)
 }
 
-h1{
-    background-color: lightskyblue;
-
-}
-
-p {
-    color: blueviolet;
-}
-
-
-p { 
+p{
     color: black;
 }
