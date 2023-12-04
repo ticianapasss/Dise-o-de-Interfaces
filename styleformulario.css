@@ -1,0 +1,48 @@
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    border-radius: 15px !important;
+  }
+
+  /* Estilo para la lista sin viñetas */
+  ul {
+    list-style: none;
+    padding: 0;
+    border-radius: 15px !important;
+  }
+
+  /* Estilo para cada elemento de la lista */
+  li {
+    margin-bottom: 10px;
+    border-radius: 15px !important;
+
+  }
+
+  /* Estilo para las etiquetas */
+  label {
+    display: block;
+    margin-bottom: 5px;
+    border-radius: 15px !important;
+  }
+
+  /* Estilo para los campos de entrada */
+  input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    border-radius: 15px !important;
+  }
+
+  /* Estilo para el botón de envío */
+  input[type="submit"] {
+    background-color: #a53fbe;
+    color: white;
+    cursor: pointer;
+    border-radius: 15px !important;
+  }
+
+  input[type="submit"]:hover {
+    background-color: #a53fbe;
+    border-radius: 15px !important;
+  }

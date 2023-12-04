@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(135, 228, 135)
+    background-color: rgb(228, 177, 230)
 }
 
 header {
@@ -15,6 +15,9 @@ h1{
     text-align: center;
 }
 
+h2{
+    text-align: center;
+}
 
 
 
